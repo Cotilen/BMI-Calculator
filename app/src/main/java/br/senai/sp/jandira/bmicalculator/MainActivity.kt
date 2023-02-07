@@ -70,6 +70,14 @@ class MainActivity : ComponentActivity() {
                             Text(text = "Qual é o seu nome?")
                         }
                     )
+                    OutlinedTextField(
+                        value = "",
+                        onValueChange ={},
+                        label = {
+                            Text(text = "Qual o seu CPF?")
+                        }
+
+                    )
                 }
             }
         }
