@@ -13,6 +13,7 @@
     <string name="over_weight">Class I Obesity - Overweight</string>
     <string name="obesity">Class II Obesity</string>
     <string name="morbid_obesity">Class III Morbid Obesity</string>
+    <string name="title_activity_sign_up">SignUpActivity</string>
 
 
 </resources>
